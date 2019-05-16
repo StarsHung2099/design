@@ -12,7 +12,7 @@
         <module>design-chain</module>
         <module>design-state</module>
         <module>design-build</module>
+        <module>design-command</module>
     </modules>
-
 
 </project>
